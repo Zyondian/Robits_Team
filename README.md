@@ -1,2 +1,2 @@
 # Robotics_Team
-Labview Source Code for Robotics Team #6693
+Labview Source Code for FIRST Robotics Team #6693
